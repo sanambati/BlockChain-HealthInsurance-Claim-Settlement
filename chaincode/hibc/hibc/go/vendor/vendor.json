@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "eHdL3LdmUx5+M6RDV1LLQuqCwYg=",
+			"path": "github.com/kardianos/govendor",
+			"revision": "e07957427183a9892f35634ffc9ea48dedc6bbb4",
+			"revisionTime": "2018-11-14T07:15:11Z"
+		}
+	],
+	"rootPath": "github.com/hibc/hibc/go"
+}
